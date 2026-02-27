@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="ТВ",ОБНОВЛЁН 26.02.2026. ДОБАВЛЕНЫ В ОЧЕРЕДНОЙ РАЗ НОВЫЕ КАНАЛЫ.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://raw.githubusercontent.com/wolemrx/stuff/refs/heads/main/10.mp4
 #EXTINF:-1 group-title="ТВ",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -181,3 +184,4 @@ https://beeline.tv/PTBITzNJV056a1ROMEFUTTRVVE5rRjJZM1F6Tm1OR014TTJZaWh6TjFBRE9pM
 https://beeline.tv/PTBITXhZRFpobHpOM2tqTnpVR04xRW1aME1ETXpFbU5tRmpaekFqWWhsRE9oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="ТВ",Танцуй!
 https://beeline.tv/PTBITXpjRE4wRWpZNGd6TXpVV1ppWkdaeUF6TWhWak5oVldONE1tTXdnRE8wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
+
